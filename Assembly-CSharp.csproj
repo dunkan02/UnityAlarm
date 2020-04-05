@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\AlarmSystemHouse.cs" />
     <Compile Include="Assets\Scripts\AutoDeleteEnemy.cs" />
     <Compile Include="Assets\Scripts\FlyOrbitalTrajectory.cs" />
+    <Compile Include="Assets\Scripts\SpawnPoint.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/!my/unity/lessons/Alarm/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
